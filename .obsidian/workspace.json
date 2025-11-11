@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
+                "file": "7. Bancos de Dados e Armazenamento de Dados/Schema Registry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluxo e as Permissões Necessárias terraform"
+              "title": "Schema Registry"
+            }
+          },
+          {
+            "id": "d580eea93b108e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Glossário/Glossário.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glossário"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -101,7 +115,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -135,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452.5
+    "width": 532.5
   },
   "right": {
     "id": "746a3356179be32d",
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
+                "file": "0 Glossário/Glossário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Fluxo e as Permissões Necessárias terraform"
+              "title": "Backlinks for Glossário"
             }
           },
           {
@@ -214,44 +228,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Criar nova base": false,
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "bc8129ec72a61667",
+  "active": "d580eea93b108e5b",
   "lastOpenFiles": [
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/🛡️ O que é um Role.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM/Fluxo e as Permissões Necessárias terraform.md",
-    "Conhecimentos específicos.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
+    "Pasted image 20250407125621.png",
     "Proxy.md",
+    "Poc (Prova de conceito).md",
     "Perfil dev.md",
-    "0 Glossário/Glossário.md",
-    "Sem título.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
+    "Pasted image 20250407125432.png",
+    "Pasted image 20250407125134.png",
+    "Lambdas.md",
+    "Padrões Arquiteturais.md",
+    "Jump Box  Bastion Host.md",
+    "Erros Críticos em Programação.md",
+    "Graph ql.md",
+    "Conhecimentos específicos.md",
+    "1 Practitioner.md",
+    "Apache Spark.md",
     "12-Factor App.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Endereçamento IP, máscara de rede e sub redes.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Classes  A B C.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/1 TCP IP  Guia Completo.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Como saber qual  IP USAR para configurar um DNS.md",
-    "Certificacoes estudos/As Certificações AWS.md",
-    "bytes/s.md",
-    "Certificacoes estudos/Arquiteto.md",
-    "Certificacoes estudos/Certificacoes linguagens frameworks.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/APACHE KAFKA.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Consumer Group Equipe de Trabalho.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Criação de Partição por volumetria.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/ESTRUTURA BÁSICA DA MENSAGEM KAFKA.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Evento de mensagens.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Kafka/Kafka com um schema Registry Sem título AWS Lambda.md",
+    "5. Desenvolvimento Back-End/Idenpotência.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Anotação spring boot.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Comunicação Event-Driven em Spring Boot.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Guia Completo de Tratamento de Erros no Spring Boot - Passo a Passo.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Spring Events observer.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
+    "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Balanceamento de Carga.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Least Response Time (WLRT) - Menor Tempo de Resposta Ponderado.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Least Connections (WLC) - Menos Conexões Ponderado.md",
+    "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Geolocation (Geographic Load Balancing Ponderado).md",
+    "7. Bancos de Dados e Armazenamento de Dados/Read Replica.md",
+    "7. Bancos de Dados e Armazenamento de Dados/Snapshotting.md",
+    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
     "bytes",
     "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/Sem título",
@@ -269,8 +285,6 @@
     "8. DevOps e Gerenciamento de Infraestrutura/Cloud-Native/Serverless",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS lambda",
     "Sem título 1.base",
-    "Pasted image 20250407125530.png",
-    "Pasted image 20250407125134.png",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
