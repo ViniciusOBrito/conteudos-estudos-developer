@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "O Modificador static"
             }
           }
         ],
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for O Modificador static"
             }
           },
           {
@@ -265,8 +265,10 @@
   },
   "active": "6dec6703214580ce",
   "lastOpenFiles": [
-    "Pasted image 20250407125530.png",
+    "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis.md",
+    "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
     "Untitled 1.md",
+    "Pasted image 20250407125530.png",
     "Untitled.md",
     "Jump Box  Bastion Host.md",
     "Lambdas.md",
@@ -293,7 +295,6 @@
     "5. Desenvolvimento Back-End/Spring/Spring boot/Persistência de Dados em Spring Boot com JPA, JPQL, @Query e EntityManager.md",
     "5. Desenvolvimento Back-End/Aninha ou empilha múltiplos blocos try...catch.md",
     "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Balanceamento de Carga.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Weighted Least Response Time (WLRT) - Menor Tempo de Resposta Ponderado.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
     "bytes",
     "13. Segurança da Informação/img/jwt-structure.png",
