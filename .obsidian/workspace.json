@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Reactor Flux  programação reativa.md",
+                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reactor Flux  programação reativa"
+              "title": "Eventos transacionais (@TransactionalEventListener)"
             }
           }
         ]
@@ -169,8 +169,13 @@
   },
   "active": "c91b79b65352d870",
   "lastOpenFiles": [
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/🚀 1. O que é Event Listener e Pub Sub.md",
+    "10. Arquitetura de Software e Design de Software/Domain Diven Design DDD/DDD (Domain Events + Aggregates).md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 1. O que é PubbSub de Verdade.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Contextos particulares de caso de uso.md",
+    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/Pub Sub Publish Subscribe  Conceito Complet.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Reactor Flux  programação reativa.md",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/🚀 1. O que é Event Listener e Pub Sub.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/✅ O que é @EventListener no Spring.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Comunicação Event-Driven em Spring Boot.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven",
@@ -193,14 +198,9 @@
     "Poc (Prova de conceito).md",
     "Sem título.md",
     "Readme.md",
-    "Proxy.md",
     "Pasted image 20250407125134.png",
-    "1 Practitioner.md",
     "Pasted image 20250407125621.png",
-    "Perfil dev.md",
     "Pasted image 20250407125432.png",
-    "Padrões Arquiteturais.md",
-    "Erros Críticos em Programação.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
     "bytes",
     "13. Segurança da Informação/img/jwt-structure.png",
