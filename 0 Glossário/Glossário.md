@@ -6,7 +6,7 @@
 #redes #infraestrutura
 ### Conceitos Fundamentais
 - [ ]  [[Internet]]
-- [ ]  [[TCP/IP]]
+- [ ]  [[TCP IP |1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
 - [ ]  [[Firewalls]]
