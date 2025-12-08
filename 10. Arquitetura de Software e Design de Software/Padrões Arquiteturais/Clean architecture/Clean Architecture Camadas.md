@@ -78,3 +78,4 @@ Ferramentas e tecnologias específicas:
 - **Flexibilidade**: Tecnologias externas podem ser substituídas sem afetar o núcleo
 
 Essa arquitetura garante que as regras de negócio permaneçam protegidas e independentes de mudanças tecnológicas, facilitando manutenção e evolução do sistema.
+
