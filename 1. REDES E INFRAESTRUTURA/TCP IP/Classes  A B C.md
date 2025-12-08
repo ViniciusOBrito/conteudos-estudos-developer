@@ -2,13 +2,13 @@ O que as difere é a **divisão fixa** do endereço IP entre a parte da **Rede**
 
 ### Resumo das Diferenças
 
-|Característica|Classe A|Classe B|Classe C|
-|---|---|---|---|
-|**Faixa do 1º Octeto**|**1 a 126**|**128 a 191**|**192 a 223**|
-|**Máscara Padrão**|**255.0.0.0**|**255.255.0.0**|**255.255.255.0**|
-|**Divisão (Rede.Host)**|**Rede** . Host . Host . Host|**Rede . Rede** . Host . Host|**Rede . Rede . Rede** . Host|
-|**Hosts/Rede (Máximo)**|∼16,7 milhões|∼65 mil|**254**|
-|**Usabilidade**|Redes **muito grandes** (grandes corporações).|Redes de **médio/grande porte** (universidades).|Redes **pequenas** (domésticas/pequenas empresas).|
+| Característica          | Classe A                                       | Classe B                                         | Classe C                                           |
+| ----------------------- | ---------------------------------------------- | ------------------------------------------------ | -------------------------------------------------- |
+| **Faixa do 1º Octeto**  | **1 a 126**                                    | **128 a 191**                                    | **192 a 223**                                      |
+| **Máscara Padrão**      | **255.0.0.0**                                  | **255.255.0.0**                                  | **255.255.255.0**                                  |
+| **Divisão (Rede.Host)** | **Rede** . Host . Host . Host                  | **Rede . Rede** . Host . Host                    | **Rede . Rede . Rede** . Host                      |
+| **Hosts/Rede (Máximo)** | ∼16,7 milhões                                  | ∼65 mil                                          | **254**                                            |
+| **Usabilidade**         | Redes **muito grandes** (grandes corporações). | Redes de **médio/grande porte** (universidades). | Redes **pequenas** (domésticas/pequenas empresas). |
 
 Exportar para as Planilhas
 

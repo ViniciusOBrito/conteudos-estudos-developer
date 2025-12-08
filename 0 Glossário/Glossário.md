@@ -272,7 +272,8 @@
 
 ### Padrões e Princípios
 
-- [[DESIGN PATTERNS]] - Padrões de Projeto (GoF)
+ - [ ] **[[Domain-Driven Design (DDD)]]**
+- - [[DESIGN PATTERNS]] - Padrões de Projeto (GoF)
 - [[Princípios SOLID]] - Base para código coeso e flexível
 - [[Padrões Arquiteturais]] 
 - [[Hexagonal]]
