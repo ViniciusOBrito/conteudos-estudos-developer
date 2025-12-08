@@ -249,6 +249,7 @@
 
 ---
 
+
 ## 🎯 Dica Extra: Repositório de Estudos
 
 Você pode manter um repositório chamado `arquitetura-avancada-notes`, com os tópicos acima organizados assim:
