@@ -1,4 +1,5 @@
 ![[img-hexagonal-1.png]]![[img-hexagonal-2.png]]
+![[img-hexagonal-1.png]]![[img-hexagonal-2.png]]
 
 # 🔷 Guia Completo das Camadas da Arquitetura Hexagonal
 
