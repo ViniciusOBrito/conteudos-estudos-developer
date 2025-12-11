@@ -6,7 +6,7 @@
 #redes #infraestrutura
 ### Conceitos Fundamentais
 - [ ]  [[Internet]]
-- [ ]  [[TCP IP |1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md]]
+- [ ]  [[1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md|TCP IP]]
 - [ ]  [[DNS]]
 - [ ]  [[VPN]]
 - [ ]  [[Firewalls]]
@@ -16,7 +16,7 @@
 - [ ]  [[Service Mesh]]
 - [ ]  [[mTLS]]
 - [ ] [[Service Registry ou Service Discovery]
-- [ ] Sidecar
+- [ ] [Sidecar] - Ambassador, Envoy, Nginx
 
 ---
 ## 2. Protocolos de APIs
@@ -36,7 +36,7 @@
 #frontend #web
 ### Linguagens e Tecnologias Base
 - [ ]  [[HTML5]]
-- [ ]  [[CSS]]
+- [ ] [[CSS]]
 - [ ] [[Sass]]
 - [ ] [[JavaScript]]
 - [ ] [[JSON]]
@@ -89,7 +89,7 @@
 ### Arquiteturas de Back-End
 
 - [ ] [[SOA]] - Service-Oriented Architecture
-- [ ] [[Microsserviços]]
+- [ ] [[Microsserviços]] - 
 - [ ] [[Arquitetura Hexagonal]]
 - [ ] [[Clean Architecture]]
 - [ ] [[Arquitetura MVC]]
@@ -300,7 +300,7 @@
 - [[Event-Driven Architecture]] (EDA) - Reações a eventos
 - [[Event Streaming]] ([[Kafka]]) - Stream contínuo de eventos
 - [[Kafka]] vs [[RabbitMQ]] - Log distribuído vs message broker
-- Pub sub
+- [[Pub sub]] -
 - [[EIP]] & [[ESB]] - Enterprise Integration Patterns
 - [[API Gateway]] - Roteamento, auth, rate limit
 - API Composition
