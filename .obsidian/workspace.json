@@ -4,64 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd96ae16707e30b",
+        "id": "5a53a5cbce7409b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e64edca1d5ad2b00",
+            "id": "715ed9fd5b92cfe7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Plataformas e Sistemas Operacionais/Garbage Collector/0. Garbage Collection.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0. Garbage Collection"
+            }
+          }
+        ]
+      },
+      {
+        "id": "07ff84e91791b0e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd46445efda06cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
+                "file": "0 Glossário/Glossário.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hexagonal"
-            }
-          },
-          {
-            "id": "5beab6cf43c37b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
-            }
-          },
-          {
-            "id": "62f26ff1744036a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Clean Architecture + Domain Events + Listener Callback.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clean Architecture + Domain Events + Listener Callback"
-            }
-          },
-          {
-            "id": "01deb274e5515c96",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
               "title": "Glossário"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ai",
+                "query": "tag:#plataforma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,86 +188,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "eb42f7836ede1533",
+  "active": "fd46445efda06cc8",
   "lastOpenFiles": [
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Spring Events observer.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Clean Architecture + Domain Events + Listener Callback.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Arquitetura de dados/Data Mesh.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/01 Garbage Collector.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/0. Garbage Collection.md",
+    "Conhecimentos específicos.md",
+    "Perfil dev.md",
     "0 Glossário/Glossário.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Arquitetura de dados",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Leitura avançada Clean architecture.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Clean Architecture Camadas.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Guia Completo de Clean Architecture Exemplo de código.md",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Clean architecture/Inversao de dependencia.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/4 Heap Memory.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/3 Stack.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/02 Gg Root.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/1. O que é Garbage Collection.md",
+    "12. Plataformas e Sistemas Operacionais/Guia definitivo de comandos Linux para desenvolvedores.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/Criação de instância e referências.md",
+    "12. Plataformas e Sistemas Operacionais/Garbage Collector/img/1. O que é Garbage Collection.md",
+    "12. Plataformas e Sistemas Operacionais/Ponteiros.md",
+    "5. Desenvolvimento Back-End/Dot Net Core/Dot Net.md",
+    "5. Desenvolvimento Back-End/JAVA/Java.md",
+    "5. Desenvolvimento Back-End/Como funciona a memória da JVM, classes, objetos, primitivas e o Garbage Collector.md",
+    "5. Desenvolvimento Back-End/Particularidades da memória e do Garbage Collector em Java.md",
     "1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md",
+    "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP/TCP IP.md",
+    "TCP IP  1. REDES E INFRAESTRUTURA/TCP IP",
+    "TCP IP  1. REDES E INFRAESTRUTURA",
+    "1. REDES E INFRAESTRUTURA/Internet.md",
+    "Pasted image 20250407125134.png",
+    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
+    "Algoritmos de Busca Linear.md",
+    "1 Practitioner.md",
     "TCP/IP.md",
     "TCP",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/VPC.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/S3.md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Queue Service (SQS).md",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/Amazon Simple Notification Service (SNS).md",
-    "5. Desenvolvimento Back-End/Dot Net Core/Tratamento de Erro em .NET Core.md",
-    "Proxy.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Explicação resumida do TCP IP, histórico e propósito.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/2 Como Funciona o TCP IP.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Endereçamento IP, máscara de rede e sub redes.md",
-    "1. REDES E INFRAESTRUTURA/Internet.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Classes  A B C.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Rede vs. Sub-rede.md",
-    "1. REDES E INFRAESTRUTURA/TCP IP/Sub-redes (Subnets).md",
-    "1. REDES E INFRAESTRUTURA/img/subnet-img-01.png",
-    "Jump Box  Bastion Host.md",
-    "10. Arquitetura de Software e Design de Software/SOLID.md",
-    "Poc (Prova de conceito).md",
-    "Pasted image 20250917010002.png",
-    "Pasted image 20250407125621.png",
-    "Pasted image 20250407125733.png",
-    "Pasted image 20250407125752.png",
-    "Pasted image 20250407125818.png",
-    "Pasted image 20250407130037.png",
-    "Untitled.md",
-    "Untitled 1.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Eventos transacionais (@TransactionalEventListener).md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/🚀 1. O que é Event Listener e Pub Sub.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/✅ O que é @EventListener no Spring.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Reactor Flux  programação reativa.md",
-    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Comunicação Event-Driven em Spring Boot.md",
+    "7. Bancos de Dados e Armazenamento de Dados/Arquitetura de dados/Data Mesh.md",
+    "7. Bancos de Dados e Armazenamento de Dados/Arquitetura de dados",
+    "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven/Spring Events observer.md",
     "5. Desenvolvimento Back-End/Spring/Spring boot/Event driven",
-    "5. Desenvolvimento Back-End/JAVA/Tipos Primitivos e Objetos Imutáveis com final.md",
-    "5. Desenvolvimento Back-End/JAVA/O Modificador static.md",
-    "10. Arquitetura de Software e Design de Software/Integração e Mensageria/🚀 1. O que é PubbSub de Verdade.md",
-    "10. Arquitetura de Software e Design de Software/Domain Diven Design DDD/DDD (Domain Events + Aggregates).md",
-    "10. Arquitetura de Software e Design de Software/Domain Diven Design DDD/Bounded Context.md",
-    "10. Arquitetura de Software e Design de Software/Domain Diven Design DDD/01 Introdução DDD.md",
     "10. Arquitetura de Software e Design de Software/Domain Diven Design DDD",
-    "Pasted image 20250407125530.png",
-    "Pasted image 20250407125134.png",
-    "Pasted image 20250407125432.png",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/Distinguindo Padrões de Projeto Criacionais, Estruturais e Comportamentais.md",
-    "10. Arquitetura de Software e Design de Software/DESIGN PATTERNS/Diferença entre os design.md",
-    "Algoritmos de Busca Linear.md",
-    "0 Glossário/Glossário.md",
-    "Proxy.md",
-    "Complexidade de Algoritmos O(n).md",
-    "Conhecimentos específicos.md",
-    "7. Bancos de Dados e Armazenamento de Dados/Theorem PACELC.md",
     "Pasted image 20251030234637.png",
-    "7. Bancos de Dados e Armazenamento de Dados/Theorem CAP.md",
     "Pasted image 20251030234537.png",
     "Pasted image 20251030234526.png",
-    "Sem título.md",
-    "10. Arquitetura de Software e Design de Software/Dados e Consistência/Transactional Outbox Pattern.md",
     "10. Arquitetura de Software e Design de Software/img/transactional-outbox pattern.png",
     "10. Arquitetura de Software e Design de Software/Dados e Consistência",
-    "10. Arquitetura de Software e Design de Software/Padrões Arquiteturais/Hexagonal/Hexagonal.md",
-    "11 ESTRUTURA DE DADOS E ALGORITMOS/Algoritmos de Balanceamento de Carga.md",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/img/vpc-1.png",
     "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/IAM",
     "bytes",
+    "13. Segurança da Informação/img/jwt-structure.png",
     "13. Segurança da Informação/Sem título",
-    "1. REDES E INFRAESTRUTURA/Conceitos Fundamentais",
-    "Sem título.base",
-    "8. DevOps e Gerenciamento de Infraestrutura/CLOUD COMPUTING/AWS (AMAZON WEB SERVICE)/AWS GLUE",
+    "10. Arquitetura de Software e Design de Software/img/img-hexagonal-2.png",
+    "10. Arquitetura de Software e Design de Software/img/img-hexagonal-1.png",
+    "10. Arquitetura de Software e Design de Software/img/clean-architecture.png",
     "Sem título.canvas",
     "Garbage Collector/img/canvas-gabarge-collector.canvas",
     "Sem título 1.canvas"
