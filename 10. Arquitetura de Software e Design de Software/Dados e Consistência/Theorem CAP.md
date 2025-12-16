@@ -1,4 +1,4 @@
-![[Pasted image 20251030234526.png]]
+![[img-teorema-cap.png]]
 
 ## 1. Visão didática do Teorema CAP
 
