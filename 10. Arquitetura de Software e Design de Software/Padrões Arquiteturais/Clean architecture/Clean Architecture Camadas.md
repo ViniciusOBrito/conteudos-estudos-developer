@@ -1,4 +1,4 @@
-![[10. Arquitetura de Software e Design de Software/img/clean-architecture.png]]
+![[img-clean-architecture.png]]
 ## **Camada Central - Entities (Entidades)**
 
 Esta é o núcleo da aplicação, contendo:
