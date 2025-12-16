@@ -1,1 +1,1 @@
-![[transactional-outbox pattern.png]]
+![[img-transactional-outbox pattern.png]]
