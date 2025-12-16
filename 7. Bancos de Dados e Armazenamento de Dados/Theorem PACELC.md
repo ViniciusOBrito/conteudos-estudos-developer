@@ -1,3 +1,3 @@
-![[Pasted image 20251030234537.png]]
+![[img-teorema-palelc.png]]
 
 ![[teorema-cap-banco-dados.png]]
