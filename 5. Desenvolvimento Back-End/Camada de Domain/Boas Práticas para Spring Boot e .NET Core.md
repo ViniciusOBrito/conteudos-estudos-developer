@@ -1380,6 +1380,12 @@ public class UpdateInventoryOnOrderProcessedHandler : IIntegrationEventHandler<O
 
 ### Estratégias de Caching Multi-Level
 
+Consiste em utilizar vários níveis de cache para recuperar dados de forma rápida. Caso o dado não seja encontrado em um determinado nível, o sistema tenta buscá-lo em um nível mais distante e, ao encontrá-lo, popula o nível anterior. Se o dado não estiver presente em nenhum dos níveis de cache, ele é buscado na fonte original e, em seguida, armazenado nos caches.
+
+Geralmente, cada nível de cache possui um tempo de expiração diferente, por exemplo: cache em nível local com 5 minutos, cache distribuído (Redis) com 30 minutos e cache de borda (CloudFront) com 1 hora. Essa abordagem garante maior velocidade e resiliência ao sistema, reduzindo a carga sobre a fonte de dados principal.
+
+Entretanto, é fundamental ter atenção ao gerenciamento do cache, garantindo a atualização ou invalidação dos dados sempre que necessário, para evitar inconsistências e a exibição de informações desatualizadas.
+
 ```python
 class CacheStrategy:
     def __init__(self):
@@ -1408,6 +1414,13 @@ class CacheStrategy:
 ```
 
 ### Database Sharding e Read Replicas
+Consiste em dois conceitos importantes para a otimização de consultas e escritas em banco de dados. Embora sejam conceitos diferentes, eles geralmente costumam andar juntos.
+
+O **Read Replica** consiste em criar uma réplica do banco de dados principal para ficar responsável exclusivamente pelas consultas de leitura, enquanto o banco **master** é responsável por todas as operações de escrita (e, se necessário, também pode atender consultas). A ideia é criar múltiplas réplicas de leitura para distribuir a carga de consultas, aumentando a performance e a escalabilidade do sistema.
+
+Já o **Sharding** consiste em dividir os dados em vários bancos de dados independentes, reduzindo o volume de dados armazenado em cada banco. Normalmente, utiliza-se uma chave de particionamento (shard key) para determinar em qual banco de dados o dado será armazenado ou consultado, garantindo que as operações de leitura e escrita sejam direcionadas ao banco responsável.
+
+A combinação dessas duas estratégias é bastante poderosa, pois permite aplicar o sharding para criar vários bancos de dados independentes e, para cada um deles, criar múltiplas read replicas, melhorando ainda mais a capacidade de leitura. No entanto, trata-se de uma abordagem que deve ser adotada apenas quando o sistema possui um grande volume de dados e alta demanda de acesso, devido à complexidade adicional envolvida.
 
 ```yaml
 # Estratégia de database por microserviço
